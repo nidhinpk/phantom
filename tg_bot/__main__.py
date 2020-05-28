@@ -28,7 +28,8 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-Hi {} My Name is *റോസ്സിക്കുട്ടി*! If you have any questions on how to use me, read /help
+hi {} my name is *റോസ്സിക്കുട്ടി*! i am a group management bot maintained by this [person](https://t.me/Tony_566)
+i am completely open source my source code is available to you [here](https://telegra.ph/file/c99524969744ed621f491.jpg) my name is Park Bo-young! If you have any questions on how to use me, read /help.
 
 
 
